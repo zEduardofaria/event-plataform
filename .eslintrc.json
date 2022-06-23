@@ -6,8 +6,8 @@
     "extends": [
         "plugin:react/recommended",
         "airbnb",
+        "plugin:prettier/recommended",
         "plugin:@typescript-eslint/recommended",
-        "plugin:prettier/recommended"
     ],
     "globals": {
       "__DEV__": "readonly"
