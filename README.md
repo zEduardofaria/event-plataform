@@ -115,5 +115,3 @@ The following tools were used in the construction of the project:
 This project is under the license [MIT](./LICENSE.md).
 
 Made with love by Eduardo Faria 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/eduardo-fariasilva/)
-
----
