@@ -71,7 +71,7 @@ Before you begin, you will need to have the following tool installed on your mac
 [Git](https://git-scm.com)
 In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
-#### Running the Backend (Server)
+#### Running the frontend (Web)
 
 ```bash
 
