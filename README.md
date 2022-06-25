@@ -84,14 +84,12 @@ $ cd event-plataform
 # install the dependencies
 $ yarn install
 
-# Create a .env file based in .env-example
-
-# Create a .env.test file based in .env-test-example
+# Create a .env.local file based in .env-example
 
 # Run the application in development mode
 $ yarn dev
 
-# The server will start at port: 3333 - go to http://localhost:3333
+# The server will start at port: 3000 - go to http://localhost:3000
 
 ```
 
@@ -99,10 +97,10 @@ $ yarn dev
 
 The following tools were used in the construction of the project:
 
-#### **Web** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
+#### **Web** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
 
-- **[GraphCMS](http://nestjs.com/)**
-- **[Tailwind](https://pactumjs.github.io/)**
+- **[GraphCMS](https://graphcms.com/)**
+- **[Tailwind](https://tailwindcss.com/)**
 
 > See the file [package.json](https://github.com/zEduardofaria/event-plataform/blob/master/package.json)
 
